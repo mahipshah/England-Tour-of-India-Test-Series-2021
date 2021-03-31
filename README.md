@@ -4,7 +4,7 @@ This repository contains the analysis of the Test Series between England and Ind
 
 There are two folders,
 
-(i) Raw Ball-to-Ball data for each Test match where each file contains each inning, each day and a teams tab.
+(i) Raw Ball-to-Ball data for each Test match where each file contains each inning, each day and a teams tab. \n
 (ii) Jupyter Notebook which reads the data from the test match and performs the analysis in Python
 
 
